@@ -1,0 +1,25 @@
+.App{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.Modal{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    z-index: 500;
+    background-color: red;
+    height: 200px;
+    width: 80%;
+}
+
+/* .ModalOpen{
+
+}
+
+.ModalClose{
+    
+} */
